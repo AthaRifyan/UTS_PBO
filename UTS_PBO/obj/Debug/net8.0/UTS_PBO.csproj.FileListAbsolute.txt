@@ -1,0 +1,14 @@
+C:\Users\Atha Rifyan Adyfy\source\repos\UTS_PBO\UTS_PBO\obj\Debug\net8.0\UTS_PBO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atha Rifyan Adyfy\source\repos\UTS_PBO\UTS_PBO\obj\Debug\net8.0\UTS_PBO.AssemblyInfoInputs.cache
+C:\Users\Atha Rifyan Adyfy\source\repos\UTS_PBO\UTS_PBO\obj\Debug\net8.0\UTS_PBO.AssemblyInfo.cs
+C:\Users\Atha Rifyan Adyfy\source\repos\UTS_PBO\UTS_PBO\obj\Debug\net8.0\UTS_PBO.csproj.CoreCompileInputs.cache
+C:\Users\Atha Rifyan Adyfy\source\repos\UTS_PBO\UTS_PBO\bin\Debug\net8.0\UTS_PBO.exe
+C:\Users\Atha Rifyan Adyfy\source\repos\UTS_PBO\UTS_PBO\bin\Debug\net8.0\UTS_PBO.deps.json
+C:\Users\Atha Rifyan Adyfy\source\repos\UTS_PBO\UTS_PBO\bin\Debug\net8.0\UTS_PBO.runtimeconfig.json
+C:\Users\Atha Rifyan Adyfy\source\repos\UTS_PBO\UTS_PBO\bin\Debug\net8.0\UTS_PBO.dll
+C:\Users\Atha Rifyan Adyfy\source\repos\UTS_PBO\UTS_PBO\bin\Debug\net8.0\UTS_PBO.pdb
+C:\Users\Atha Rifyan Adyfy\source\repos\UTS_PBO\UTS_PBO\obj\Debug\net8.0\UTS_PBO.dll
+C:\Users\Atha Rifyan Adyfy\source\repos\UTS_PBO\UTS_PBO\obj\Debug\net8.0\refint\UTS_PBO.dll
+C:\Users\Atha Rifyan Adyfy\source\repos\UTS_PBO\UTS_PBO\obj\Debug\net8.0\UTS_PBO.pdb
+C:\Users\Atha Rifyan Adyfy\source\repos\UTS_PBO\UTS_PBO\obj\Debug\net8.0\UTS_PBO.genruntimeconfig.cache
+C:\Users\Atha Rifyan Adyfy\source\repos\UTS_PBO\UTS_PBO\obj\Debug\net8.0\ref\UTS_PBO.dll
